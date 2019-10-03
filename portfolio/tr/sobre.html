@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Thricya Ranaee</title>
+	<link rel="stylesheet" href="css/style.css?version=70">
+	<link rel="stylesheet" href="css/hover.css">
+	<link rel="icon" type="image/png" href="img/favicon.png" />
+	<link rel="stylesheet" href="css/portfolio.css">
+	<script src="js/jquery.js"></script>
+	<script>
+	    $(document).ready(function(){
+	    	$("#moreinfos").hide();
+            $("#moreinfo").click(function() {
+                $("#moreinfos").show();
+                $(".left").hide();
+                $(".right").hide();
+            });
+            $("#fechar").click(function() {
+                $("#moreinfos").hide();
+                $(".left").show();
+                $(".right").show();
+            });
+        })
+	</script>
+</head>
+<body>
+	<!-- PORTFOLIO -->
+	<a href="../../index.html">
+		<div id="backbutton">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" id="arrow">
+				<path d="M3 12l18-12v24z"/>
+			</svg>
+		</div>
+	</a>
+	<div id="aviso">
+		<span class="alert">AVISO:</span> Design do site não desenvolvido por mim, apenas o código, recebi as imagens do protótipo e apenas codifiquei.
+	</div>
+	<!-- PORTFOLIO END -->
+	<div id="topbarfundo"></div>
+	<div id="topbarfundo2"></div>
+	<div id="topbar">
+		<div id="logo"><img src="img/logo.png"></div>
+		<div class="menu">
+			<a href="index.html" id="link1">Home</a>
+			<a href="sobre.html" id="link2" style="background: #330000; color: #ff9999;">Sobre</a>
+			<a href="design.html" id="link3">Design de Multimidia</a>
+			<a href="interface.html" id="link4">Interface e Usabilidade</a>
+			<a href="contato.php" id="link5">Contato</a>
+		</div>
+		<div id="social">
+			<a href="https://www.behance.net/thricyacav3fa7" class="hvr-grow" target="_blank"><img src="img/behance.png"></a>
+			<a href="https://www.facebook.com/thricya.moreiraesilva" class="hvr-grow" target="_blank"><img src="img/facebook.png"></a>
+			<a href="https://www.instagram.com/thricya" class="hvr-grow" target="_blank"><img src="img/instagram.png"></a>
+		</div>
+	</div>
+	<div id="contentfundo"></div>
+	<div id="content">
+		<div class="left">
+			<div class="titulo">
+				Thricya Ranaee Cavalcante<br />
+				24 Anos
+			</div>
+			<div class="img">
+				<img src="img/foto.png">
+			</div>
+			<a href="https://www.behance.net/thricyacav3fa7" class="links" target="_blank">Behance</a><br />
+			<a href="http://lattes.cnpq.br/1606074178310013 " class="links" target="_blank">Plataforma Lattes</a>
+		</div>
+		<div id="sobretext" class="right">
+			Estudante de Design Gráfico, pela Faculdade Senac Goiás, com previsão de conclusão em junho de 2018. Noções em Illustrator, Photoshop, Indesign, Dreamweaver e Fotografia. Comunicativa, Criativa, perfeccionista, facilidade com novas tecnologias e viciada em café.<br />
+			<a href="#" id="moreinfo">Mais Informações</a>
+		</div>
+		<div class="center" id="moreinfos">
+			<div id="tituloinfo">Mais Informações</div><div id="fechar">X</div>
+			<p>Atividades Complementares:</p>
+
+			Monitora do laboratório de Design na Faculdade Senac Goiás, supervisionado pelo Professor Marcos Costa, de Setembro a Dezembro de 2018.<br />
+
+			<p>Palestra, Oficinas e Seminários:</p>
+
+			<p>Ministrei:</p>
+
+			Palestra Análise de painéis sobre os 30 anos do Césio 137 - 2017<br />
+			Oficina Confecção e Personalização de Sketchbook - 2017 	
+
+			<p>Participei:</p>
+
+			SEINTEGRA - 2016 e 2017<br />
+			Palestra Debate TransversaL - 2017 <br />
+			Palestra Behance Portfolio Reviews - 2017<br />
+			Palestra Freelancer sem Crise: Desafios do Designer Autônomo no Mercado Goiano - 2017 <br />
+			Palestra Dicas e Truques de Fotografia Digital - 2017 <br />
+			Palestra Orientação para Estágio e Monitoria - 2017 <br />
+			Palestra Aprendendo com o ENADE - 2017<br />
+			Palestra Marketing Olfativo - 2017<br />
+			Palestra Como se Inserir no Mercado de Trabalho Através do Estágio - 2016<br />
+			Palestra Faça de seu Hobby um Negócio - 2016
+
+		</div>
+	</div>
+	<div id="footerfundo"></div>
+	<footer class="center">
+		Copyright © Thricya Ranaee 2018 - Todos os Direitos Reservados
+	</footer>
+</body>
+</html>

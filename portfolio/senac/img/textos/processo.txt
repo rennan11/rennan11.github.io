@@ -1,0 +1,31 @@
+﻿<p><h3>Processo Gráficos</h3></p>
+<p>Metodologia do Projeto 50h (Marcos Costa)</p>
+Planejar, conceituar, defender e executar projetos de Design Gráfico a partir de pesquisas científicas, 
+geração de ideias e conceitos, abordando sua problematização, hipóteses, variáveis e referencial teórico.
+<br/>Vídeo Aula
+
+<p>Cor e Percepção Visual 66h (Felipe Chalfun)</p>
+Aplicar os conhecimentos das cores em seus aspectos físico, simbólico, tecnológico nos diferentes suportes: reproduções impressas, interfaces digitais e ambientes.
+<br/>Vídeo Aula
+
+<p>Processos Gráficos 66h ( Joelson Santos)</p>
+Conhecer as tecnologias e materiais utilizados pelos processos digitais e mecânicos de reprodução gráfica. Planejar e acompanhar produção gráfica de objetos de design.
+<br/>Vídeo Aula
+
+<p>Expressão Gráfica 66h (Aurisberg)</p>
+Desenvolver competências para desenho ilustrativo de processos e ideias de design gráfico. 
+<br/>Vídeo Aula
+
+<p>Tipografia 50h ( Marcos Costa)</p>
+Desenvolver conhecimentos e competências para uso de tipografia em projetos gráficos impressos e digitais, considerando aspectos tecnológicos, fatores humanos, sujeito e objeto de estudo do design. 
+<br/>Vídeo Aula
+
+<p>Tratamento de Imagem Digital  (Eletiva) 33h (Joelson Santos) </p>
+Conhecer as especificidades do tratamento de imagens digitais bitmaps para fins de publicação em meio digital e/ou impresso.
+<br/>Vídeo Aula
+
+<p>Desenho Vetorial (Eletiva) 33h (Aurisberg)</p>
+Apresentar os conhecimentos básicos dos principais programas de desenho vetorial com suas particularidades, principais recursos, efeitos e limitações.
+<br/>Vídeo Aula
+
+<p>Morfologia Bidimensional ‐ EAD (Ensino à Distância) 33h</p>
