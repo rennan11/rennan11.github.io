@@ -1,0 +1,28 @@
+.mybg-primary {
+    background: #000;
+}
+
+.mybg-secondary {
+    background: #fecb00;
+}
+
+.mycolor-primary {
+    color: #000;
+}
+
+.mycolor-secondary {
+    color: #fecb00;
+}
+
+.bg-primary-opacity-50 {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.bg-primary-opacity-75 {
+    background: rgba(0, 0, 0, 0.75);
+}
+
+.textsh {
+    text-shadow: 0 0 10px #000;
+    text-align: center;
+}
