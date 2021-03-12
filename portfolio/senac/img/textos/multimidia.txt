@@ -1,9 +1,0 @@
-﻿<p><h3>Design Multimídia</h3></p>
-<p>Design de Multimídia 100h (Diogo Maia) </p>
-Criação de websites e hotsites estáticos, interfaces, CD/DVD-Rom e jogos de pequena complexidade. Operar aplicativos e desenvolver raciocínio lógico para aplicação em projetos para internet e outras mídias interativas digitais que possuam interações entre os mais diversos tipos de mídias digitais (textos, imagens, áudio, vídeo, animações, etc). 
-<p>Fotografia 66h (Geison Carvalho)</p>
-<p>Animação Gráfica 50h ( Diogo Maia)</p>
-<p>Áudio e Vídeo Digital 33 h (Geison Carvalho)</p>
-<p>Interface e Usabilidade 50h ( Daniel Cabral)</p>
-<p>Culturas e Mídias Sociais 33h (Maria Cristina)</p>
-<p>Morfologia Tridimensional  ‐ EAD (Ensino à Distância) 33h</p>
